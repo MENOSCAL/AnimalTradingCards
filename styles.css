@@ -1,0 +1,46 @@
+/* add your CSS here */
+body{
+    width: 350px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+}
+.card{
+    width: 325px;
+    border: 2px solid;
+    border-color: rgb(206, 206, 206);
+    box-shadow: 10px 5px 5px rgb(221, 221, 221);
+    margin: 10px;
+}
+h3{
+    font-size: 25px;
+    border: 1px solid rgb(255, 255, 255);
+    padding: 0px 10px 0px;
+}
+img{
+    border: 1px solid rgb(255, 255, 255);
+    padding: 0px 10px 0px;
+}
+.card_text{
+    width: 280px;
+    border: 1px solid rgb(206, 206, 206);
+    border-radius: 25px;
+    background-color: rgb(249 249 249);
+    padding: 0px 10px;
+    margin: 10px;
+}
+.interesting_fact{
+    font-style: italic;
+    border: 1px solid rgb(255, 255, 255);
+}
+.description{
+    border: 1px solid rgb(255, 255, 255);
+}
+span{
+    font-weight: bold;
+}
+ul{
+    list-style-type: none;
+    padding: 0px;
+    border: 1px solid rgb(255, 255, 255);
+}
