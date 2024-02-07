@@ -1,16 +1,17 @@
 # Animal Trading Cards
 
-Developed my knowledge of HTML and CSS to create a web-based trading card depicting my favorite animal.
+* Converted a design mockup into a website built with HTML.
+* Developed knowledge of HTML and CSS to create a web-based business card.
 
 ## Table of Contents
 
 * [Instructions](#instructions)
-* [Creator](#creators)
+* [Creators](#creators)
 
 ## Instructions
 
-* clone the project
-* open the index file in a browser
+* Clone project
+* Open the index file in the browser
 
 ## Creators
 
